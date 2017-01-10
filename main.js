@@ -14,3 +14,7 @@ var age=today-born;
 console.log(age);
 var name='Erik' ;
 console.log(name+" is "+age+" years old");
+var yourName='Erik';
+var instructorName='Tori';
+var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
+console.log(statement);
