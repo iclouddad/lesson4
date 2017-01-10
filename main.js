@@ -1,1 +1,10 @@
 console.log("Look I'm Logging from the console");
+var givenName;
+console.log(givenName);
+var greeting = "hello, how are you";
+var givenName=" Brett ?";
+console.log(greeting+givenName);
+var high = 50;
+var low  = 10;
+var math = high - low;
+console.log(high-low);
