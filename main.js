@@ -18,3 +18,13 @@ var yourName='Erik';
 var instructorName='Tori';
 var statement = yourName + " is taking a class at The Iron Yard, my instructor's name is " + instructorName;
 console.log(statement);
+var myAge= 45;
+var isOld;
+if (myAge > 100){
+  var isOld=true;
+  console.log(isOld);
+}
+else if (myAge < 100) {
+  var isOld=false;
+  console.log(isOld);
+}
